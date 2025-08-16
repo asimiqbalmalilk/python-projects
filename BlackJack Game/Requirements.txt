@@ -1,0 +1,5 @@
+## Requirements
+
+- Python 3.7 or above (the code uses f-strings which require Python 3.6+)
+- A code editor or IDE (such as VS Code, PyCharm, or even IDLE that comes with Python)
+- A terminal/command prompt to run the game
