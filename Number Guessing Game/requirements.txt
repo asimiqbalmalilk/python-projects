@@ -1,0 +1,2 @@
+# Number Guessing Game Requirements
+# Python Standard Library only, no external dependencies
